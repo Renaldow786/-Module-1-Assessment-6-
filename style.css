@@ -1,0 +1,394 @@
+#header{
+    background-color: darkgrey;
+}
+
+#heading{
+    height: 300px;
+}
+
+#heading{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 10px;
+    font-family: cursive;
+    color: aqua;
+}
+
+#menu a{
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 60px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: ffffff;
+}
+
+#menu a:hover{
+    color: blue;
+}
+
+#page{
+    background-color: ffffff;
+}
+
+#catalogue p{
+    text-align: center;
+    font-weight: 800;
+    font-size: 80px;
+    color: cadetblue;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+.gallery img{
+    width: 50%
+}
+
+#items a{
+    font-weight: 800;
+    font-size: 50px;
+    padding-top: 40px;
+    font-family: helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+#float a{
+    font font-weight: 800;
+    font-size: 55px;
+    float: right;
+    padding-right: 60px;
+    padding-top: 160px;
+    font-family: cursive;
+    color: black;
+    text-decoration: none;
+}
+
+#items a:hover{
+    color: grey;
+}
+
+#background{
+    background-color: burlywood;
+}
+
+#title h1{
+    font-weight: 800;
+    font-size: 60px;
+    color: black;
+    font-family: helvetica,sans-serif;
+    text-align: center;
+}
+
+#img-1{
+    width: 100%;
+    
+}
+
+#img-1 img{
+    padding-left: 25%
+}
+
+#buy{
+    width; 100%
+    height; 500px
+}
+
+#buy h3{
+    float: left;
+}
+
+#stock p{
+    font-weight: 600;
+    font-size: 60px;
+    font-family: helvetica,sans-serif;
+}
+
+#price h3{
+    font-weight: 800;
+    font-size: 60px;
+    font-family: helvetica, sans-serif;
+    color: black;
+    float: left;
+    padding-right: 80px;
+}
+
+#button input:hover{
+    font-size: 30px;
+    font-weight: 800;
+    width; 25%;
+    height: 60px;
+    color: black;
+    background-color: lightgray;
+    border: solid;
+    border-style: ridge;
+    align-content: center;
+    outline-style: groove;
+    transition: 
+}
+
+#button input:hover{
+    color: darkblue;
+    background-color: aliceblue;
+}
+
+#background-color{
+    background-color: darkgray;
+}
+
+#discription h2{
+    font-weight: 300;
+    font-size; 80px;
+    font-family: impact, fantasy;
+    color: black;
+    text-align: center;
+}
+
+#table-heading{
+    width: 100%
+}
+    
+#table-heading h3{
+    width; 40%;
+    color: black;
+    text-align: center;
+    font-weight: 800;
+    font-size: 60px;
+    font-family: impact, fantasy;
+}
+
+#table{
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: 10px;
+    border-color: black;
+    background-image: url(images/);     
+}
+
+#table th{
+    width: 40%;
+    color: black;
+    font-weight: 800;
+    font-size: 30px;
+    font-family: monofinaance;
+    text-align: center;
+}
+
+#table td{
+    width: 60%;
+    color: black;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+}
+
+#table tr{
+    width: 60%;
+    color: black;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+}
+
+#info a{
+    font-weight: 500;
+    font-size: 45px;
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+#info a:hover{
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 45px;
+}
+
+#footer{
+    width: 100%;
+    background-color: burlywood;
+    height: 100px;
+    text-align: center;
+}
+
+#footer a{
+    font-weight: 400;
+    font-size: 40px;
+    color: #ffffff;
+    font-family: helvetica, sans-serif;
+    text-decoration: none;    
+}
+
+#footer a:hover{
+    color: darkgray;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+#form label{
+    width: 70%;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: impact, fantasy;
+}
+
+#form input{
+    width: 70%;
+    font-weight: 300;
+    font-size: 40px;
+    color: black;
+    font-family: helvetica, sans-serif;
+}
+
+#final{
+    width: 100%;
+    height: 500px;
+}
+
+#final h1{
+    font-weight: 500;
+    font-size: 100px;
+    font-family: impact, fantasy;
+    color: black;
+    padding-top: 100px;
+    text-align: center;
+}
+
+#final-background-color{
+    background-color: burlywood;
+    width: 100%;
+    height: 100%;
+}
+
+#feedback p{
+    font-weight: 600;
+    font-size: 40px;
+    font-family: verdana, sans-serif;
+    color: black;
+    
+}
+
+#feedback label{
+    font-weight: 300;
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+}
+
+#feedback input{
+    width: 35px;
+    height: 35px;
+    accent-color: darkgrey;
+}
+
+#end h4{
+    font-weight: 400;
+    font-size: 65px;
+    font-family: impact, fantasy;
+    text-align: center;
+    color: black;
+}
+
+#end img{
+    width: 65px;
+}
+
+#title img{
+    width: 100px;
+}
+
+#imgs-sp a{
+    padding-right: 100px;
+    padding-left: 80px;
+}
+
+#sp {
+    padding-left: 35%;
+}
+
+#watch img{
+    padding-left: 2%;
+}
+
+#watch-img-1 img{
+    padding-left: 32.5%;
+}
+
+#contact p{
+    font-weight: 400;
+    font-size: 50px;
+    font-family: verdana, sans-serif;
+    color: black;
+}
+
+#contact h5{
+    font-weight: 800;
+    font-size: 40px;
+    font-family: helvetica, sans-serif;
+    color: black;
+}
+
+#contact h6{
+    font-weight: 600;
+    font-size: 40px;
+    font-family: verdana, sans-serif;
+    color: black;
+}
+
+#checkbox input{
+    width: 30px;
+    height: 30px;
+    accent-color: darkgrey;
+}
+
+#checkbox label{
+    font-weight: 700;
+    font-size: 40px;
+    font-family: helvetica, sans-serif;
+    color: black;
+}
+
+#contact img{
+    width: 50px;
+}
+
+#about h1{
+    font-weight: 800;
+    font-size: 80px;
+    font-family: impact, fantasy;
+    color: black;
+    text-align: center;
+}
+
+#about img{
+    width: 80px;
+}
+
+#about p{
+    font-weight: 800;
+    font-size: 40px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+
+#about a{
+    font-weight: 800;
+    font-size: 40px;
+    font-family: helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+#about a:hover{
+    color: #ffffff;
+}
+
+#about h3{
+    font-weight: 800;
+    font-size: 40px;
+    font-family: cursive;
+    color: black;
+}
+
